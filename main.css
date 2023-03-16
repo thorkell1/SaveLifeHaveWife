@@ -8,7 +8,7 @@
     color:white;
     font-family: Arial, sans-serif;
     font-size: 16px;
-    background-image:url('https://github.com/thorkell1/SaveLifeHaveWife/blob/main/image.jpeg');
+    background-image:url('/image.jpeg');
     background-size: cover;
     background-position: center center;
     
